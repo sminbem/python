@@ -5,3 +5,5 @@
 num = 10 #숫자를 값으로 가지는 변수 num
 count = 100
 print(num + count, 문자변수)
+
+list = ['사과','배']
